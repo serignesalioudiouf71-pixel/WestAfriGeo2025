@@ -1,0 +1,8 @@
+{
+  "name": "WestAfriGeo",
+  "description": "ajouter des bouton enregistrement utlisateur",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
